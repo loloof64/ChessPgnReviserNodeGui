@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Application
+Exec=AppRun %F
+Icon=chess
+Comment=Load your chess Pgn files and train yourself with them.
+Terminal=false
+Categories=Utility;Game;

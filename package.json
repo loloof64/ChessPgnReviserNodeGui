@@ -19,5 +19,8 @@
     "webpack-cli": "^3.3.12"
   },
   "author": "Laurent Bernabe <laurent.bernabe@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@nodegui/packer": "^1.4.1"
+  }
 }
