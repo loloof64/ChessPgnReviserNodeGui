@@ -4,6 +4,7 @@
   "description": "Load your chess Pgn files and train yourself with them.",
   "main": "webpack.config.js",
   "scripts": {
+    "build": "webpack -p",
     "dev": "webpack -p && qode --inspect ./dist/main.js"
   },
   "dependencies": {
